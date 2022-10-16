@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CinemaInformation</string>
+    <string name="cinema_name">ADI</string>
+    <string name="cinema_type">TÜRÜ</string>
+    <string name="product_year">YAPIM YILI</string>
+    <string name="director">YÖNETMEN</string>
+    <string name="product_company">YAPIM ŞİRKETİ</string>
+    <string name="button_add">EKLE</string>
+    <string name="button_list">LİSTELE</string>
+    <string name="button_update">Güncelle</string>
+    <string name="switch_update">Düzenle</string>
+    <string name="register_updated">Kayıt Güncellendi.</string>
+    <string name="register_not_updated">Kayıt Güncellenmeden Çıkış Yapıldı.</string>
+
+
+    <string-array name="cinema_types">
+        <item>Aksiyon</item>
+        <item>Aile</item>
+        <item>Bilim Kurgu</item>
+        <item>Dram</item>
+        <item>Korku</item>
+        <item>Komedi</item>
+        <item>Macera</item>
+    </string-array>
+</resources>
